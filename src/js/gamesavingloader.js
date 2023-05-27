@@ -18,4 +18,3 @@ export default class GameSavingLoader {
 // GameSavingLoader.load().then((saving) => {
 //   console.log(saving)
 // })
-
